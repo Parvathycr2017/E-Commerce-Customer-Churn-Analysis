@@ -25,6 +25,12 @@ The dataset contains customer-related information such as:
 
 
 
+## 🧰 Tools Used
+- MySQL – for data cleaning, transformation, and analysis
+- MySQL Workbench – for executing SQL queries
+- GitHub – for version control and project showcasing
+
+
 ## 🔧 Data Cleaning Steps
 - Filled missing values using mean, median, and mode
 - Removed outliers from specific columns
